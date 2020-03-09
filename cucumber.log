@@ -1,5 +1,5 @@
 ec2-user:~/environment/hw-acceptance-unit-test-cycle/rottenpotatoes (master) $ date
-Sat Mar  7 21:14:23 UTC 2020
+Mon Mar  9 23:28:19 UTC 2020
 
 ec2-user:~/environment/hw-acceptance-unit-test-cycle/rottenpotatoes (master) $ cucumber
 DEPRECATION WARNING: The factory_girl gem is deprecated. Please upgrade to factory_bot. See https://github.com/thoughtbot/factory_bot/blob/v4.9.0/UPGRADE_FROM_FACTORY_GIRL.md for further instructions. (called from require at /home/ec2-user/.rvm/rubies/ruby-2.4.0/lib/ruby/site_ruby/2.4.0/bundler/runtime.rb:81)
