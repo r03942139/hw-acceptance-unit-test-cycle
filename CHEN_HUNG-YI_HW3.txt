@@ -1,6 +1,5 @@
 HW3 hw-acceptance-unit-test-cycle
 Name: HUNG-YI CHEN
-UIN: 430005499
 Homework 3 Github Link: https://github.com/r03942139/hw-acceptance-unit-test-cycle
 Heroku App Link: https://intense-sierra-38394.herokuapp.com/movies
 LOG of cucumber: https://github.com/r03942139/hw-acceptance-unit-test-cycle/blob/master/cucumber.log
